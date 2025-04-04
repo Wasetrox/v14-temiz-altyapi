@@ -1,0 +1,15 @@
+{
+  "name": "discord-bos-v14-alt-yapi",
+  "version": "1.0.0",
+  "description": "Wase baba",
+  "main": "wase.js",
+  "scripts": {
+    "start": "node wase.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "@discordjs/voice": "^0.16.1"
+  },
+  "author": "Wasetrox",
+  "license": "MIT"
+}
