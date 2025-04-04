@@ -9,4 +9,4 @@ Sorularınız için bana ulaşabilirsiniz:
 ## 🏆 Durum
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)  
-![Stars](https://img.shields.io/github/stars/kullanici-adi/proje-adi?style=social)  
+![Stars](https://img.shields.io/github/stars/wasetrox/v14-temiz-altyapi?style=social)  
